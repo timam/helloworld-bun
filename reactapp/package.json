@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "reactapp",
   "version": "0.1.2",
   "dependencies": {
     "react": "^18.2.0",
