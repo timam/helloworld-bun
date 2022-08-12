@@ -1,4 +1,5 @@
 FROM jarredsumner/bun:edge
+WORKDIR /app
 COPY . .
 RUN bun install
 EXPOSE 8080
